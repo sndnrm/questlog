@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/questlog/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/questlog/static/js/main.e768af39.chunk.js",
+    "main.js.map": "/questlog/static/js/main.e768af39.chunk.js.map",
+    "runtime-main.js": "/questlog/static/js/runtime-main.6faa8605.js",
+    "runtime-main.js.map": "/questlog/static/js/runtime-main.6faa8605.js.map",
+    "static/js/2.7294d21b.chunk.js": "/questlog/static/js/2.7294d21b.chunk.js",
+    "static/js/2.7294d21b.chunk.js.map": "/questlog/static/js/2.7294d21b.chunk.js.map",
+    "static/js/3.23679908.chunk.js": "/questlog/static/js/3.23679908.chunk.js",
+    "static/js/3.23679908.chunk.js.map": "/questlog/static/js/3.23679908.chunk.js.map",
+    "index.html": "/questlog/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/questlog/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7294d21b.chunk.js.LICENSE.txt": "/questlog/static/js/2.7294d21b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6faa8605.js",
+    "static/js/2.7294d21b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e768af39.chunk.js"
+  ]
+}
